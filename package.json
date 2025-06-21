@@ -1,0 +1,15 @@
+{
+  "name": "db-backup-utility",
+  "version": "0.0.1a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
