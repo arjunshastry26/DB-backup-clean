@@ -1,10 +1,7 @@
-<<<<<<< HEAD
+
 ##  Database Backup Utility
 
-A database backup utility that can backup and restore any DB. Check [Supported databases](#supported-databases). Here the full details: https://roadmap.sh/projects/database-backup-utility
-
-<!-- 
-[Ref](https://roadmap.sh/projects/database-backup-utility/solutions?u=66e6d423f34c8868ec615e2f): -->
+A database backup utility that can backup and restore any DB. 
 
 ### Previous to use the tool 
 
@@ -85,6 +82,4 @@ node cli backup --help
 ### Maybes
 - JSON credentials reader
 - Custom backup DIR  
-=======
-# DB-backup-utility
->>>>>>> 334a68b185fd782b84ebadec65bd6fa555ab7552
+
